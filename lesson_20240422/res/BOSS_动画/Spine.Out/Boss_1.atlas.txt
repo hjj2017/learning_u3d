@@ -1,0 +1,48 @@
+
+Boss_1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Img/Arm
+  rotate: false
+  xy: 891, 449
+  size: 118, 324
+  orig: 118, 324
+  offset: 0, 0
+  index: -1
+Img/Body
+  rotate: false
+  xy: 410, 0
+  size: 360, 550
+  orig: 360, 550
+  offset: 0, 0
+  index: -1
+Img/Lit
+  rotate: false
+  xy: 449, 552
+  size: 440, 221
+  orig: 440, 221
+  offset: 0, 0
+  index: -1
+Img/Tail
+  rotate: false
+  xy: 329, 594
+  size: 118, 179
+  orig: 118, 179
+  offset: 0, 0
+  index: -1
+Img/Wing_1
+  rotate: false
+  xy: 0, 232
+  size: 408, 360
+  orig: 408, 360
+  offset: 0, 0
+  index: -1
+Img/Wing_2
+  rotate: false
+  xy: 0, 598
+  size: 327, 175
+  orig: 327, 175
+  offset: 0, 0
+  index: -1
